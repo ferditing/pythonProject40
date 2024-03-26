@@ -1,0 +1,7 @@
+This is line 1
+12345
+Another line with some text and numbers: 456
+
+Appending line 1
+789
+Additional line with some appended text and numbers: 101112
